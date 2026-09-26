@@ -66,6 +66,8 @@ I enjoy working with raw data, cleaning and transforming it, finding meaningful 
 
 **Tech Stack:** Python • Pandas • SQL • PostgreSQL • Power BI
 
+![customer shopping Behaviour Analysis Dashboard](/customer(1).png)
+
 ---
 
 ### Electric Vehicle Analysis
@@ -76,6 +78,8 @@ I enjoy working with raw data, cleaning and transforming it, finding meaningful 
 * Created brand-level insights to make model comparisons easier to understand.
 
 **Tech Stack:** Python • Pandas • Tableau
+
+![EV analysis]
 
 ---
 
@@ -89,16 +93,7 @@ I enjoy working with raw data, cleaning and transforming it, finding meaningful 
 
 **Tech Stack:** Excel • MySQL • MySQL Workbench • Power BI
 
----
-
-###  Hiding Patient Data in Medical Images in DICOM Metadata
-
-* Developed a Python-based approach to hide patient data within DICOM image metadata.
-* Used **Pydicom** to read, process, and manipulate DICOM metadata.
-* Preserved the DICOM file structure and usability while implementing data hiding and extraction.
-* Published the work as a peer-reviewed paper in the **ICICCS-2026 proceedings**.
-
-**Tech Stack:** Python • Pydicom • DICOM
+![Netflix dashboard](/review.png)
 
 ---
 
@@ -130,6 +125,19 @@ Hyderabad, Telangana
 ---
 
 ##  Certifications
+
+
+###  Hiding Patient Data in Medical Images in DICOM Metadata
+
+* Developed a Python-based approach to hide patient data within DICOM image metadata.
+* Used **Pydicom** to read, process, and manipulate DICOM metadata.
+* Preserved the DICOM file structure and usability while implementing data hiding and extraction.
+* Published the work as a peer-reviewed paper in the **ICICCS-2026 proceedings**.
+
+**Tech Stack:** Python • Pydicom • DICOM
+
+
+---
 
 **Data Analysis | SQL, Tableau, Power BI & Excel**
 Udemy — Instructor: Garaeme Gordan
