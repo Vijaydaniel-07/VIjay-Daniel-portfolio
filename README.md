@@ -66,7 +66,7 @@ I enjoy working with raw data, cleaning and transforming it, finding meaningful 
 
 **Tech Stack:** Python • Pandas • SQL • PostgreSQL • Power BI
 
-![customer shopping Behaviour Analysis Dashboard](/customer(1).png)
+![customer shopping Behaviour Analysis Dashboard](/CSB.png)
 
 ---
 
