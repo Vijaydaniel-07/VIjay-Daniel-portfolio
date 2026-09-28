@@ -66,8 +66,6 @@ I enjoy working with raw data, cleaning and transforming it, finding meaningful 
 
 **Tech Stack:** Python • Pandas • SQL • PostgreSQL • Power BI
 
-![customer shopping Behaviour Analysis Dashboard](/CSB.png)
-
 ---
 
 ### Electric Vehicle Analysis
@@ -78,8 +76,6 @@ I enjoy working with raw data, cleaning and transforming it, finding meaningful 
 * Created brand-level insights to make model comparisons easier to understand.
 
 **Tech Stack:** Python • Pandas • Tableau
-
-![EV analysis]
 
 ---
 
@@ -135,7 +131,7 @@ Hyderabad, Telangana
 * Published the work as a peer-reviewed paper in the **ICICCS-2026 proceedings**.
 
 **Tech Stack:** Python • Pydicom • DICOM
-
+![Certification](/certificate.jpeg)
 
 ---
 
